@@ -1,1 +1,2 @@
-Echo 'echo' > up_to_date
+
+git commit -m 'up to date'
